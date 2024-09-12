@@ -1,0 +1,5 @@
+Fonts ---->
+Open Sans, Arial, sans-serif
+
+Colors ---->
+#996633 - Gray

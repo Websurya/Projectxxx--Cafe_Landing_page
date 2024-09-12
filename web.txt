@@ -1,0 +1,67 @@
+
+Chilling Cafe
+Coffee Menu
+Hot
+Iced
+Blended
+Americano
+$10
+$15
+Cuppucino
+$15
+$18
+$20
+Fresh Latte
+$10
+$18
+$20
+Mocha
+$15
+$18
+$20
+Espresso
+$10
+$15
+Black Coffee
+$15
+Double Shot Expresso
+$20
+$20
+Tea Menu
+Hot
+Iced
+Addon
+Pure White Milk
+$5
+$10
+Hong Kong Tea
+$8
+$12
+$4
+Taiwan Tea
+$4
+$10
+$4
+Bubble Tea
+$8
+$12
+Mixed Fruit Tea
+$10
+$10
+$8
+Original Tea
+$12
+$12
+Special Items
+Soft Deli Cup $25
+Coffee Art $30
+Speciality Tea
+$35
+About our cafe
+Chilling Cafe is a simple HTML website template provided by Tooplate. Feel free to use it for your cafe or coffee shop. This layout is a mobile and tablet friendly.
+You can download and use this HTML one-page template for your business. You are not allowed to re-host the template ZIP file on your template collection sites. Thank you.
+Talk to us
+Reach us via Email or follow us on social icons below. Thank you.
+f
+@
+Copyright © 2020 Company Name. Design: Tooplate

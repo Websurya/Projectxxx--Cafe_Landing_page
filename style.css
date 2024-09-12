@@ -1,0 +1,128 @@
+body {
+    font-family: "Open Sans", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  background-color: rgb(76, 84, 112);
+  width: 100%;
+    }
+  .banner {
+    padding:0em;
+    width: 60%;
+    margin: auto;
+    background-color: white;
+  }
+  .cup {
+    width:3%;
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+}
+#starter {
+    font-size: 20px;
+    font-weight:400;
+    color: white;
+}
+.starter {
+    text-align: center;
+    padding: 1em 0 1em 0;
+}
+.drink-menu{
+    color: #996633;
+    font-weight: 400;
+    font-size:larger;
+    text-align: center;
+    margin: 2.5em 0 1.5em 0;
+}
+.drink-menu1{
+    color: #996633;
+    font-weight: 400;
+    font-size:larger;
+    text-align: center;
+    margin: 2.5em 0 1.5em 0;
+}
+
+table {
+ margin: auto;
+ padding: 0 1em 0 1em;
+ text-align: center;
+ color:gray;
+}
+tr.thead {
+    background-color: beige;
+    font-size: large;
+    color: black;
+}
+td:nth-child(1) {
+    text-align: left;
+}
+tr.rowsp {
+background-color: rgb(248, 248, 243);
+}
+.card {
+    display: flex;
+    margin-bottom: 1em;
+}
+.card-image1{
+    margin: 1em;
+}
+.card-text {
+    text-align: center;
+    margin-top: 1em;
+}
+.line {
+    width:50%;
+    margin: 2em auto 1em auto;
+}
+.content {
+    width: 70%;
+    margin: 1em auto 1em auto;
+    color:grey;
+}
+img.contact {
+    width: 8%;
+    height:auto;
+    padding: 0.5em;
+}
+.address {
+    display: flex;
+    justify-content: center;
+    padding: 1em 0 2em 0;
+}
+.copyright {
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 2em 0 2.5em 0;
+}
+@media only screen and (max-width:481px) {
+ body{
+    background-color: rgb(76, 84, 112);
+    width: 100%;   
+ }   
+    .banner {
+        padding:0em;
+        width: 90%;
+        margin: auto;
+        background-color: white;
+      }
+    .cup {
+        width:8%;
+        height: auto;
+    }
+    .card {
+        display:block;
+        margin-bottom: 1em;
+    }
+    .content {
+        width: 90%;
+        margin: 1em auto 1em auto;
+        color:grey;
+    }
+    img.contact {
+        width: 12%;
+    }
+}
